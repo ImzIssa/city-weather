@@ -1,6 +1,6 @@
 const OPEN_WEATHER_MAPS_API_KEY = "d4d04f0c0802e4786ec8f4eb006257e0";
 
-const GEOCODE_API_KEY = "AIzaSyDLgclPxrMsdEu8Rt60eaFS1lDevpatdwU";
+const GEOCODE_API_KEY = "";
 
 const reverseGeocode = async (latitude, longitude) => {
   try {
